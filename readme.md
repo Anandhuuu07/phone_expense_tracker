@@ -6,4 +6,5 @@ python cases_flask.py
 
 python comp_flask.py
 
-git 
+
+run liveserver keep the port as http://127.0.0.1:5501/
